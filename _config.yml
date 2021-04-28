@@ -100,6 +100,12 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/hjunseo0306"
 
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/heocorgi/heocorgi.github.io"
 
 # Reading Files
 include:
