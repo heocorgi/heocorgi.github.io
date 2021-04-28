@@ -3,7 +3,7 @@ layout: single
 title:  "Useful Links"
 ---
 
-# https://devinlife.com/howto%20github%20pages/github-blog-intro/  
+###### https://devinlife.com/howto%20github%20pages/github-blog-intro/  
 
 ** 링크 표시법 : [Title](link) **  
 
