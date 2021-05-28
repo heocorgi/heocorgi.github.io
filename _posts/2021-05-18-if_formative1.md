@@ -29,7 +29,7 @@ categories: "형성평가"
 
 
 ### 02. 3개의 터널 통과
-![터널](/assets/images/터널.png)
+![터널](/assets/images/동굴.png)
 ~~~c
 #include <stdio.h>
   int main(void)
